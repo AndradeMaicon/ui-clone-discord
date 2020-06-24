@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 // SL - Server list
+// SN - Server Name
 // CL - Channel List
 // CD - Channel Data
 // UI - User Info
