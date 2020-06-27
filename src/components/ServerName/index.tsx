@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 import { Container, Title, ExplandIcon } from './styles';
 
 const ServerName: React.FC = () =>  {
